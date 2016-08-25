@@ -1,0 +1,1 @@
+﻿1>------ Сборка начата: проект: WindowsFormsApplication3, Конфигурация: Debug Any CPU ------
