@@ -205,11 +205,4 @@ FakesAssemblies/
 # Visual Studio 6 workspace options file
 *.opt
 
-# LightSwitch generated files
-GeneratedArtifacts/
-_Pvt_Extensions/
-ModelManifest.xml
-/CameraManagerKernel/ProtoBuf/generatedPythonClasses
-/CameraManagerKernel/ProtoBuf/generatedCppClasses
-/CameraManagerKernel/ProtoBuf/generatedCSClasses
-/CameraManagerKernel/*.bin
+
