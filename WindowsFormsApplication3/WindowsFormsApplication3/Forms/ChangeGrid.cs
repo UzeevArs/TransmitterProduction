@@ -32,7 +32,7 @@ namespace WindowsFormsApplication3.Forms
         private void gridView1_CellValueChanged(object sender, DevExpress.XtraGrid.Views.Base.CellValueChangedEventArgs e)
         {
             ColumnView view = gridControl1.FocusedView as ColumnView;
-
+ //           if (view.UpdateCurrentRow())
             {
                 dataTableAdapter.Update(eJX_DATADataSet.Data);
             }

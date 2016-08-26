@@ -123,6 +123,3 @@ C:\Users\Jeggy\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\Wi
 C:\Users\Jeggy\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
 C:\Users\Jeggy\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
 C:\Users\Jeggy\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Forms.ChangeGrid.resources
-F:\TransmitterProduction\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
-F:\TransmitterProduction\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
-F:\TransmitterProduction\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb

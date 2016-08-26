@@ -87,6 +87,7 @@
     <Compile Include="..\..\MainForm_bacup.Designer.cs">
       <DependentUpon>MainForm_bacup.cs</DependentUpon>
     </Compile>
+    <Compile Include="Class1.cs" />
     <Compile Include="DataModel\InputOutputData.cs" />
     <Compile Include="DataModel\WrapperData.cs" />
     <Compile Include="EJX_DATADataSet.cs">
